@@ -1,7 +1,7 @@
 const Inicio = ()=>{
     return(
         <div>
-           Desplegando a AWS version2 
+           Desplegando a AWS version 3 
        </div>
     )
 }
